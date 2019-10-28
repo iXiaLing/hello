@@ -1,0 +1,60 @@
+[33mcommit 2caca30e63b9f410286fc06bda4c66518e794444[m
+Author: XiaLing <12485356@qq.com>
+Date:   Tue Oct 22 20:58:43 2019 +0800
+
+    2019/10/22
+
+[1mdiff --git a/demo2.md b/demo2.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..302929d[m
+[1m--- /dev/null[m
+[1m+++ b/demo2.md[m
+[36m@@ -0,0 +1,47 @@[m
+[32m+[m[32m# Demo2[m
+[32m+[m[32m## 水平分割线demo[m
+[32m+[m	[32m<hr>Horizontal Rule[m
+[32m+[m[32m---[m
+[32m+[m	[32m<hr>Horizontal Rule[m
+[32m+[m[32m***[m
+[32m+[m	[32m<hr>Horizontal Rule[m
+[32m+[m[32m___[m
+[32m+[m
+[32m+[m[32m## HTML代码demo[m
+[32m+[m[32m<p align='center'>Hello World</p>[m
+[32m+[m[32m<img src='https://www.baidu.com/img/bd_logo1.png?where=super'>[m
+[32m+[m[32m<!--注释-->[m
+[32m+[m[32m<!--[m
+[32m+[m	[32m注释1[m
+[32m+[m	[32m注释2[m
+[32m+[m	[32m注释3[m
+[32m+[m[32m-->[m
+[32m+[m
+[32m+[m[32m## 表格demo[m
+[32m+[m[32m|这|是|表|头|[m
+[32m+[m[32m|:---|:---:|---:|---|[m
+[32m+[m[32m|*Cell1*|**Cell2**|Cell3|Cell4|[m
+[32m+[m[32m|***CellA***|CellB|CellC|![Baidu Log]|[m
+[32m+[m
+[32m+[m[32m这|是|表|头[m
+[32m+[m[32m:---|:---:|---:|---[m
+[32m+[m[32mCell1|Cell2|Cell3|Cell4[m
+[32m+[m[32mCellA|CellB|CellC|CellD[m
+[32m+[m
+[32m+[m[32m[Baidu Log]: https://www.baidu.com/img/bd_logo1.png?where=super[m
+[32m+[m
+[32m+[m[32m## GFM demo[m
+[32m+[m
+[32m+[m[32mGitHub Flavored Markdown[m
+[32m+[m
+[32m+[m[32mtast.list[m
+[32m+[m[32m- [x] item1[m
+[32m+[m[32m- [ ] item2[m
+[32m+[m[32m- [ ] item3[m
+[32m+[m
+[32m+[m
+[32m+[m[32memoji 表情符号[m
+[32m+[m
+[32m+[m[32m:smile:[m[41m  [m
+[32m+[m[32m:thumbsup:[m[41m  [m
+[32m+[m[32m:pray:[m
+\ No newline at end of file[m
