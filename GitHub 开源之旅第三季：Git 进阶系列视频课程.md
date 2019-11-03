@@ -1,12 +1,12 @@
 #  概述
 ##### Git工作流程示意图
-![](\\Images\Git工作流程示意图.jpg)
+![](Images/Git工作流程示意图.jpg)
 ##### Git常用命令速查表
-![](Images\Git常用命令速查表.jpg)
+![](Images/Git常用命令速查表.jpg)
 ##### Git三个区域
-![](Images\Git三个区域.jpg)
+![](Images/Git三个区域.jpg)
 ##### Git四种状态
-![](Images\Git四种状态.jpg)
+![](Images/Git四种状态.jpg)
 ##### .gitignore使用场合
 1. 忽略操作系统自动生成的文件，比如：缩略图，等
 2. 忽略编译生成的中间文件、可执行文件等，比如： C 语言编译产生的 .obj 文件和 .exe 文件；
