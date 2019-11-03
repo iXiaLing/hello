@@ -1,0 +1,7 @@
+# ignore .project created by HBuilder
+.project
+.tgitconfig
+*.obj
+*.exe
+IgnoreTest/
+GitIgnore*/
