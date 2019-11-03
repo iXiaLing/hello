@@ -1,6 +1,6 @@
 #  概述
 ##### Git工作流程示意图
-![](Images\Git工作流程示意图.jpg)
+![](\\Images\Git工作流程示意图.jpg)
 ##### Git常用命令速查表
 ![](Images\Git常用命令速查表.jpg)
 ##### Git三个区域
