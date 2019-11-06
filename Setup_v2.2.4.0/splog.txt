@@ -1,0 +1,112 @@
+[2019-11-05 21:07:17.746] [I] ***************************************************************
+[2019-11-05 21:07:17.746] [I] Snipaste 2.2.4-Beta x86 (Desktop) (Qt 5.9.5)
+[2019-11-05 21:07:17.746] [I] OS: Windows 7 SP 1 (6.1) [6.1.7601]
+[2019-11-05 21:07:17.746] [I] Cores: 4
+[2019-11-05 21:07:17.746] [I] Elevated: false
+[2019-11-05 21:07:17.746] [I] Main thread id: 0x18c8
+[2019-11-05 21:07:17.746] [I] Log level: 2
+[2019-11-05 21:07:17.746] [I] Application dir: C:/Users/Admin/Desktop/Test/hello/Setup_v2.2.4.0
+[2019-11-05 21:07:17.746] [I] Working dir: C:/Users/Admin/Desktop/Test/hello/Setup_v2.2.4.0
+[2019-11-05 21:07:17.746] [I] Config: C:/Users/Admin/Desktop/Test/hello/Setup_v2.2.4.0/config.ini
+[2019-11-05 21:07:17.746] [I] Library paths: (C:/Users/Admin/Desktop/Test/hello/Setup_v2.2.4.0)
+[2019-11-05 21:07:17.746] [I] Screen scale: 1
+[2019-11-05 21:07:17.746] [I] Retina factor: 1
+[2019-11-05 21:07:17.747] [I] Screens: 1
+[2019-11-05 21:07:17.747] [I]     QRect(0, 0, 1440 x 900), DPI = 96 , DPR = 1
+[2019-11-05 21:07:17.754] [I] Desktops: -1
+[2019-11-05 21:07:17.754] [I] About to import settings from: C:/Users/Admin/Desktop/Test/hello/Setup_v2.2.4.0/config.ini
+[2019-11-05 21:07:17.756] [I] Settings imported
+[2019-11-05 21:07:17.757] [I] Breakpad initialized
+[2019-11-05 21:07:17.758] [I] Process priority: 1
+[2019-11-05 21:07:17.759] [I] Initializing Snipaste...
+[2019-11-05 21:07:18.654] [I] Prefetch...
+[2019-11-05 21:07:18.656] [I] About to apply settings...
+[2019-11-05 21:07:18.663] [I] Preloaded 20 files: 7 ms
+[2019-11-05 21:07:18.868] [I] Settings applied
+[2019-11-05 21:07:18.910] [I] Log level set to: 2
+[2019-11-05 21:07:19.171] [I] History dir: C:/Users/Admin/Desktop/Test/hello/Setup_v2.2.4.0/history
+[2019-11-05 21:07:19.174] [W] Failed to open history file "C:/Users/Admin/Desktop/Test/hello/Setup_v2.2.4.0/history/.sp0" for reading
+[2019-11-05 21:07:19.174] [I] Add group
+[2019-11-05 21:07:19.185] [I] Request to switch to group 0
+[2019-11-05 21:07:19.330] [I] About to restore pasters...
+[2019-11-05 21:07:19.334] [I] Group 0 [80RZK4]: "默认"
+[2019-11-05 21:07:19.334] [I] Record version: 171
+[2019-11-05 21:07:19.334] [I] To restore: 0
+[2019-11-05 21:07:19.334] [I] Pasters touched
+[2019-11-05 21:07:19.334] [I] All pasters activated: true
+[2019-11-05 21:07:19.454] [I] Unref images: 0 (0 removed)
+[2019-11-05 21:07:19.461] [I] Unref dirs: 0 (0 removed)
+[2019-11-05 21:07:19.475] [I] Empty history info files: 0 (0 removed)
+[2019-11-05 21:07:19.475] [I] Pasters restored
+[2019-11-05 21:07:19.478] [I] Launch time: 1736 ms
+[2019-11-05 21:07:19.712] [I] Load default ssl configuration: 1058 ms
+[2019-11-05 21:07:24.675] [I] Parsing command arguments [1]: (sp, snip)
+[2019-11-05 21:07:24.676] [I] Snip request: 0 (dest: 0)
+[2019-11-05 21:07:24.676] [I] Snipper: preparing...
+[2019-11-05 21:07:24.730] [I] Screens: 1
+[2019-11-05 21:07:24.731] [I]     QRect(0, 0, 1440 x 900), DPI = 96 , DPR = 1
+[2019-11-05 21:07:24.731] [I] Desktop: QRect(0, 0, 1440 x 900)
+[2019-11-05 21:07:24.731] [I] Background size: QSize(1440, 900)
+[2019-11-05 21:07:24.756] [I] Focus set
+[2019-11-05 21:07:24.797] [I] Snipper: preparation done (0)
+[2019-11-05 21:07:24.797] [I] Snipper: about to appear...
+[2019-11-05 21:07:24.797] [I] Snipper: prepare to show...
+[2019-11-05 21:07:24.813] [W] QFont::setPixelSize: Pixel size <= 0 (-2147483648)
+[2019-11-05 21:07:24.826] [I] Snipper: shown
+[2019-11-05 21:07:24.828] [I] Snipper: focus in
+[2019-11-05 21:07:24.828] [I] Snipper: ready [0.152 s]
+[2019-11-05 21:07:24.860] [W] QWindowsWindow::setGeometry: Unable to set geometry 154x184+864+250 on QWidgetWindow/'magnifierWindow'. Resulting geometry:  154x190+864+250 (frame: 0, 0, 0, 0, custom margin: 0, 0, 0, 0, minimum size: 154x184, maximum size: 154x16777215).
+[2019-11-05 21:08:06.691] [I] Snipper: focus out [0]
+[2019-11-05 21:08:24.435] [I] Screenshot destination: none
+[2019-11-05 21:08:24.436] [I] Snipper: about to quit...
+[2019-11-05 21:08:24.445] [I] Snipper: hidden
+[2019-11-05 21:08:24.446] [I] Snipper: quit
+[2019-11-05 21:08:26.426] [I] Parsing command arguments [1]: (sp, snip)
+[2019-11-05 21:08:26.427] [I] Snip request: 0 (dest: 0)
+[2019-11-05 21:08:26.427] [I] Snipper: preparing...
+[2019-11-05 21:08:26.474] [I] Screens: 1
+[2019-11-05 21:08:26.474] [I]     QRect(0, 0, 1440 x 900), DPI = 96 , DPR = 1
+[2019-11-05 21:08:26.474] [I] Desktop: QRect(0, 0, 1440 x 900)
+[2019-11-05 21:08:26.474] [I] Background size: QSize(1440, 900)
+[2019-11-05 21:08:26.485] [I] Focus set
+[2019-11-05 21:08:26.486] [I] Snipper: preparation done (0)
+[2019-11-05 21:08:26.486] [I] Snipper: about to appear...
+[2019-11-05 21:08:26.486] [I] Snipper: prepare to show...
+[2019-11-05 21:08:26.494] [I] Snipper: shown
+[2019-11-05 21:08:26.495] [I] Snipper: focus in
+[2019-11-05 21:08:26.495] [I] Snipper: ready [0.068 s]
+[2019-11-05 21:08:35.858] [I] Screenshot destination: none
+[2019-11-05 21:08:35.858] [I] Snipper: about to quit...
+[2019-11-05 21:08:35.862] [I] Snipper: focus out [3]
+[2019-11-05 21:08:35.865] [I] Snipper: hidden
+[2019-11-05 21:08:35.866] [I] Snipper: quit
+[2019-11-05 21:08:38.954] [I] Parsing command arguments [1]: (sp, snip)
+[2019-11-05 21:08:38.954] [I] Snip request: 0 (dest: 0)
+[2019-11-05 21:08:38.954] [I] Snipper: preparing...
+[2019-11-05 21:08:38.998] [I] Screens: 1
+[2019-11-05 21:08:38.998] [I]     QRect(0, 0, 1440 x 900), DPI = 96 , DPR = 1
+[2019-11-05 21:08:38.998] [I] Desktop: QRect(0, 0, 1440 x 900)
+[2019-11-05 21:08:38.998] [I] Background size: QSize(1440, 900)
+[2019-11-05 21:08:39.011] [I] Focus set
+[2019-11-05 21:08:39.012] [I] Snipper: preparation done (0)
+[2019-11-05 21:08:39.012] [I] Snipper: about to appear...
+[2019-11-05 21:08:39.012] [I] Snipper: prepare to show...
+[2019-11-05 21:08:39.014] [I] Snipper: shown
+[2019-11-05 21:08:39.014] [I] Snipper: focus in
+[2019-11-05 21:08:39.014] [I] Snipper: ready [0.06 s]
+[2019-11-05 21:08:49.226] [I] Screenshot destination: none
+[2019-11-05 21:08:49.226] [I] Snipper: about to quit...
+[2019-11-05 21:08:49.230] [I] Snipper: focus out [3]
+[2019-11-05 21:08:49.232] [I] Snipper: hidden
+[2019-11-05 21:08:49.233] [I] Snipper: quit
+[2019-11-05 21:08:50.271] [I] Silent feed checking finished
+[2019-11-05 21:08:50.271] [I] No available update
+[2019-11-05 21:08:54.227] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2019-11-05 21:09:22.346] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2019-11-05 21:09:23.624] [I] Quit from tray menu
+[2019-11-05 21:09:23.647] [I] Snipaste: normal exit
+[2019-11-05 21:09:23.647] [I] Snipper: destructed
+[2019-11-05 21:09:23.669] [I] WinEnumer destructed
+[2019-11-05 21:09:23.670] [I] Exit: 0
+
+
